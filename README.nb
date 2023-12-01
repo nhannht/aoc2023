@@ -1,0 +1,74 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1831,         64]
+NotebookOptionsPosition[      1235,         44]
+NotebookOutlinePosition[      1630,         60]
+CellTagsIndexPosition[      1587,         57]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Wellcome to my hive, buddies", "Title",
+ CellChangeTimes->{{3.910446537015565*^9, 
+  3.9104465519557247`*^9}},ExpressionUUID->"ee50a464-54c2-4f02-82cf-\
+d27e5cd2051d"],
+
+Cell[CellGroupData[{
+
+Cell["Scratchpad", "Section",
+ CellChangeTimes->{{3.910447203632298*^9, 
+  3.910447209256744*^9}},ExpressionUUID->"4ac550bb-2801-48fa-80d5-\
+88dd3d847f34"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"SetDirectory", "[", "\"\<~/nhannht-projects/aoc2023/\>\"", "]"}], 
+  ";"}]], "Input",
+ CellChangeTimes->{{3.910447215045225*^9, 3.9104472338645477`*^9}},
+ CellLabel->
+  "In[271]:=",ExpressionUUID->"87d901c8-d6ba-4e4e-988e-1f960791acd0"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{1020, 536.25},
+WindowMargins->{{0, Automatic}, {Automatic, 19.5}},
+FrontEndVersion->"13.3 for Linux x86 (64-bit) (July 24, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"f9e1cd3f-9cff-4d4a-9885-bf2a6e798384"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 173, 3, 105, "Title",ExpressionUUID->"ee50a464-54c2-4f02-82cf-d27e5cd2051d"],
+Cell[CellGroupData[{
+Cell[778, 29, 155, 3, 72, "Section",ExpressionUUID->"4ac550bb-2801-48fa-80d5-88dd3d847f34"],
+Cell[936, 34, 271, 6, 84, "Input",ExpressionUUID->"87d901c8-d6ba-4e4e-988e-1f960791acd0"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
