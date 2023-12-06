@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    771141,      13317]
-NotebookOptionsPosition[    764723,      13212]
-NotebookOutlinePosition[    765118,      13228]
-CellTagsIndexPosition[    765075,      13225]
+NotebookDataLength[    772179,      13345]
+NotebookOptionsPosition[    765401,      13233]
+NotebookOutlinePosition[    765796,      13249]
+CellTagsIndexPosition[    765753,      13246]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -13208,6 +13208,27 @@ make it more refer to read later\
  CellChangeTimes->{{3.91088331476797*^9, 
   3.910883367261683*^9}},ExpressionUUID->"7b634831-bd1f-4ba4-9bfd-\
 cd53167e7172"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["SCratchpad", "Section",
+ CellChangeTimes->{{3.9108835555152483`*^9, 
+  3.9108835586470547`*^9}},ExpressionUUID->"ab4cc3eb-eef2-4aed-8df6-\
+e5e916ee8fe4"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"SetDirectory", "[", "\"\<~/nhannht-projects/aoc2023\>\"", 
+  "]"}]], "Input",
+ CellChangeTimes->{{3.9108835621772413`*^9, 3.9108835715399227`*^9}},
+ CellLabel->"In[81]:=",ExpressionUUID->"9bafac9a-4066-436a-a10b-d61db56f3dd6"],
+
+Cell[BoxData["\<\"/home/vermin/nhannht-projects/aoc2023\"\>"], "Output",
+ CellChangeTimes->{3.91088357269727*^9},
+ CellLabel->"Out[81]=",ExpressionUUID->"f5d5401b-eedf-4bec-b014-e3e107b05e21"]
+}, Open  ]]
 }, Open  ]]
 },
 WindowSize->{1020, 536.25},
@@ -13318,6 +13339,13 @@ Cell[764024, 13192, 248, 4, 29, "Input",ExpressionUUID->"f45e10ea-7ee7-455b-b1c1
 Cell[764275, 13198, 156, 2, 33, "Output",ExpressionUUID->"a741f207-8279-4d18-a995-6a54a730ca50"]
 }, Open  ]],
 Cell[764446, 13203, 261, 6, 37, "Text",ExpressionUUID->"7b634831-bd1f-4ba4-9bfd-cd53167e7172"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[764744, 13214, 159, 3, 72, "Section",ExpressionUUID->"ab4cc3eb-eef2-4aed-8df6-e5e916ee8fe4"],
+Cell[CellGroupData[{
+Cell[764928, 13221, 250, 4, 29, "Input",ExpressionUUID->"9bafac9a-4066-436a-a10b-d61db56f3dd6"],
+Cell[765181, 13227, 192, 2, 33, "Output",ExpressionUUID->"f5d5401b-eedf-4bec-b014-e3e107b05e21"]
+}, Open  ]]
 }, Open  ]]
 }
 ]
