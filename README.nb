@@ -3532,7 +3532,7 @@ Cell[BoxData[
  CellChangeTimes->{{3.910447215045225*^9, 3.9104472338645477`*^9}},
  CellLabel->
   "In[271]:=",ExpressionUUID->"87d901c8-d6ba-4e4e-988e-1f960791acd0"]
-}, Closed]]
+}, Open  ]]
 }, Open  ]]
 },
 WindowSize->{1020, 536.25},
@@ -3559,7 +3559,7 @@ Cell[1641, 48, 211475, 3470, 323, "Input",ExpressionUUID->"775279cf-a5ca-4c8f-8c
 Cell[CellGroupData[{
 Cell[213141, 3522, 155, 3, 72, "Section",ExpressionUUID->"4ac550bb-2801-48fa-80d5-88dd3d847f34"],
 Cell[213299, 3527, 271, 6, 29, "Input",ExpressionUUID->"87d901c8-d6ba-4e4e-988e-1f960791acd0"]
-}, Closed]]
+}, Open  ]]
 }, Open  ]]
 }
 ]
