@@ -2,7 +2,7 @@
 
 *** Hello, this is my first time I trying to using Wolfram language to solve AOC.
 #+name: links
-#+begin_src elisp
+#+begin_src elisp :exports both
 (cl-map 'list (lambda (number)
                 `( ,number
                    ,(format "[[https://github.com/nhannht/aoc2023/blob/master/%s.pdf][pdf]]" number)
@@ -44,10 +44,8 @@
 | 30 | [[https://github.com/nhannht/aoc2023/blob/master/30.pdf][pdf]] | [[https://github.com/nhannht/aoc2023/blob/master/30.nb][notebook]] |
 
 #+name: letters
-#+begin_src elisp :var l=links
+#+begin_src elisp :var l=links :exports both
 (shell-command-to-string (format "figlet Thank for %s nice challenge" (length l)))
-
-
 #+end_src
 
 #+RESULTS: letters
